@@ -27,7 +27,9 @@ _Sep 2020_
 - Output files will be genrated in the following location as per the sample output \fixedwidthgenerators-master\fixedwidthgenerators-master\
 
 
+### Unit Testing
 
+- Written test_fixedfilegenerators.py to cover the required test cases using pycharm editor.
 
 
 ###
