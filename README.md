@@ -41,34 +41,6 @@ Sample output:
 - Please refer fixed file :: D:\Vikram\Projects\Test\fixedwidthgenerators-master\fixedwidthgenerators-master\fixed.txt and csv file :: -D:\Vikram\Projects\Test\fixedwidthgenerators-master\fixedwidthgenerators-master\snake.csv
 
 
-### use python environment
-```python3 -m venv venv```
-
-```source venv/bin/activate```
-
-```pip install -r requirements.txt```
-
-```python src/main.py```
-### use docker
-Because why not make it more complicated and bonus points right?
-
-Build current code into image: 
-
-```docker build -t mypyreader .```
-
-Check image was created: 
-
-```docker images```
-
-Run current code: 
-
-```docker run --rm -v $(pwd)/:/code mypyreader```
-
-Shell to run the code in docker container? 
-
-```docker run -i -t mypyreader /bin/bash```
-
-
 
 # Limitations
 - program is to be run from root directory
@@ -78,13 +50,6 @@ Shell to run the code in docker container?
 - no qualifying questions were enabled to elicit full requirements
 
 
-## References
-https://forge.medium.com/how-to-identify-a-smart-person-in-3-minutes-57f058cd5561
-
-https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
-
-
-https://seeknuance.com/2008/02/15/interview-whiteboard-coding-tests-are-usually-worthless/
 
 # Data Engineering Coding Challenges
 
