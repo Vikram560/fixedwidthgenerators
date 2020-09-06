@@ -13,14 +13,13 @@ _Sep 2020_
 ## Approach
 - Simple python3 with expected libraries
 - Quick refactoring without over complication (Don't boil the ocean)
-- Pytest to validate expected functionality of data generation during refactoring
-- Functional approach where possible - avoid side effects, obviously file writing is a mutation
 - Work steps in main() function
 
 ## Build/Run
 ### use python
 - Download the code
-- From the command prompt navigate to the folder \fixedwidthgenerators-master\fixedwidthgenerators-master>
+- From the command prompt navigate to the folder \fixedwidthgenerators-master\fixedwidthgenerators-master
+- Idea is to navigate to till we find the src folder from the downloaded code.
 - python src/fixedfilegenerator.py
 ```python src/fixedfilegenerator.py```
 - Output files will be genrated in the following location as per the sample output \fixedwidthgenerators-master\fixedwidthgenerators-master\
