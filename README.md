@@ -19,7 +19,28 @@ _Sep 2020_
 
 ## Build/Run
 ### use python
+- Download the code
+- From the command prompt navigate to the folder \fixedwidthgenerators-master\fixedwidthgenerators-master>
+- python src/fixedfilegenerator.py
+```python src/fixedfilegenerator.py```
+- Output files will be genrated in the following location as per the sample output \fixedwidthgenerators-master\fixedwidthgenerators-master\
+
+
+
 ```python3 src/main.py```
+
+###
+Sample output: 
+
+
+- D:\Vikram\Projects\Test\fixedwidthgenerators-master\fixedwidthgenerators-master>python src/fixedfilegenerator.py
+- Enter the number of lines to generate a fixed length file:13
+- Enter the delimiter whcih you want to use generate the file,
+- columnheadings: ['f1', 'f2', 'f3', 'f4', 'f5', 'f6', 'f7', 'f8', 'f9', 'f10']
+- columnwidths: ['5', '12', '3', '2', '13', '7', '10', '13', '20', '13']
+- Please refer fixed file :: D:\Vikram\Projects\Test\fixedwidthgenerators-master\fixedwidthgenerators-master\fixed.txt and csv file :: -D:\Vikram\Projects\Test\fixedwidthgenerators-master\fixedwidthgenerators-master\snake.csv
+
+
 ### use python environment
 ```python3 -m venv venv```
 
