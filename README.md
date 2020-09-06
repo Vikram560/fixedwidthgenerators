@@ -1,5 +1,5 @@
 # fixedwidthgenerators
-Assumptions
+#Assumptions
 needs to be quick to read
 demonstrate understanding of iteration, conditionals, file handles and string manipulation
 demonstrate Python Syntax comprehension, basic programming norms - naming conventions
