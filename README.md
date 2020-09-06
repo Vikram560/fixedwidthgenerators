@@ -9,6 +9,7 @@ _Sep 2020_
 - demonstrate Python Syntax comprehension, basic programming norms - naming conventions 
 - use base python
 - Parser has access to 'spec.json' to anticipate fixed document structure, rather than interpreting from file
+- Install latest Python version.
 
 ## Approach
 - Simple python3 with expected libraries
@@ -21,7 +22,8 @@ _Sep 2020_
 - From the command prompt navigate to the folder \fixedwidthgenerators-master\fixedwidthgenerators-master
 - Idea is to navigate to till we find the src folder from the downloaded code.
 - python src/fixedfilegenerator.py
-```python src/fixedfilegenerator.py```
+```python src/fixedfilegenerator.py``` old version
+```python3 src/fixedfilegenerator.py``` latest version
 - Output files will be genrated in the following location as per the sample output \fixedwidthgenerators-master\fixedwidthgenerators-master\
 
 
