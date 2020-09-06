@@ -27,7 +27,7 @@ _Sep 2020_
 
 
 
-```python3 src/main.py```
+
 
 ###
 Sample output: 
@@ -43,8 +43,6 @@ Sample output:
 
 
 # Limitations
-- program is to be run from root directory
-- file line endings are *nix
 - file names are constants
 - code is only for use based on supplied specification
 - no qualifying questions were enabled to elicit full requirements
